@@ -1,0 +1,19 @@
+h1 {
+	color: lightblue;
+}
+
+p {
+	color : ligthblue;
+	text-decoration: none;
+}
+p:hover {
+	color: blue
+}
+
+body {
+	background-color: azure; font-family: Verdana, sans-serif; 
+}
+
+h2{
+	font-family:"trebuchet ms"; /* famille de police "trebuchet ms" */color:#FF0000; /*#FF0000 couleur de police rouge */text-align:center;/* aligner le texte au centre */
+}
